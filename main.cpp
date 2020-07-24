@@ -5,7 +5,7 @@ C++ look like this.*/
 
 //comments that run to the end of the line in C++ look like this
 
-#include <iostream>   //this is a library which makes inpot & output possible
+#include <iostream>   //this is a library which makes input & output possible
 using namespace std;  // this is the standard namespace
 
 // C++ requires a main function and execution begins here
